@@ -4,12 +4,19 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+build
 
 # for linux local file
 *~
 
 # for c++
 
+#for Qt
+*.config
+*.creator.user
+*.creator
+*.files
+*.includes
 
 # Compiled Object files
 *.slo
